@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "jobSearch",
-    "slug": "jobSearch"
+    "slug": "jobSearch",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "841c046a-73e2-4dc1-84fa-0ce1de3f20de"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/841c046a-73e2-4dc1-84fa-0ce1de3f20de"
+    },
+    "android": {},
+    "ios": {}
   }
 }
